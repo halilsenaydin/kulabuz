@@ -23,7 +23,7 @@ Kişiselleştirilmiş öğrenci rehberliği web uygulaması. Sistemde iki türl�
 
 ## Website
 Web uygulamasının arka ucu Node.js çerçevesi kullanılarak geliştirildi. Veri tabanı olarak PostgreSQL kullanılmaktadır.
-Web uygulamasının ön ucu ise Angular çerçevesi kullanılarak geliştirldi.
+Web uygulamasının ön ucu ise Angular çerçevesi kullanılarak geliştirildi.
 
 ```bash
 # KULABUZ website
