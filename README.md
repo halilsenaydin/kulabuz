@@ -31,6 +31,12 @@ www.kulabuz.com.tr
 ```
 
 ## Uygulamaya Ait Ekran Görüntüleri
+
+### Ana Sayfa
+<img width="1680" alt="Screenshot 2023-12-19 at 20 28 25" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/92074746-8e38-4c99-85a0-6b5044b0b5ef">
+<img width="1680" alt="Screenshot 2023-12-19 at 20 28 32" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/29d5b407-0916-4b80-984a-4a63bf5743e9">
+
+### Öğrenci Yönetim Paneli
 <img width="1680" alt="Screenshot 2023-12-19 at 20 27 28" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/293763e4-ed5f-47bf-97f9-8b160d1c4c1f">
 <img width="1680" alt="Screenshot 2023-12-19 at 20 27 38" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/30b0fe76-7666-4991-ad5f-d904279e3efc">
 <img width="1680" alt="Screenshot 2023-12-19 at 20 27 45" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/a6b52773-02a9-4188-a8db-f3f387520e8c">
@@ -38,5 +44,3 @@ www.kulabuz.com.tr
 <img width="1679" alt="Screenshot 2023-12-19 at 20 28 02" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/6da24b77-45fa-4065-a8e3-6bdd9975154f">
 <img width="1679" alt="Screenshot 2023-12-19 at 20 28 09" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/2e3a7077-2111-41af-ab59-b3a93588070f">
 <img width="1680" alt="Screenshot 2023-12-19 at 20 28 16" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/b92fff70-895c-4450-ad94-20c574dc9d55">
-<img width="1680" alt="Screenshot 2023-12-19 at 20 28 25" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/92074746-8e38-4c99-85a0-6b5044b0b5ef">
-<img width="1680" alt="Screenshot 2023-12-19 at 20 28 32" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/29d5b407-0916-4b80-984a-4a63bf5743e9">
