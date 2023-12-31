@@ -44,3 +44,12 @@ www.kulabuz.com.tr
 <img width="1680" alt="Screenshot 2023-12-31 at 17 40 41" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/446368c4-fd90-4513-946a-9c95989d34d9">
 <img width="1679" alt="Screenshot 2023-12-19 at 20 28 09" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/2e3a7077-2111-41af-ab59-b3a93588070f">
 <img width="1680" alt="Screenshot 2023-12-19 at 20 28 16" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/b92fff70-895c-4450-ad94-20c574dc9d55">
+
+### Rehber Öğretmen Yönetim Paneli
+<img width="1680" alt="Screenshot 2023-12-31 at 17 51 44" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/8bc053f1-56db-4d81-83ee-8a703bf3960f">
+<img width="1680" alt="Screenshot 2023-12-31 at 17 51 51" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/2d8d3aa1-7483-43f0-8fdb-39f24462e876">
+<img width="1680" alt="Screenshot 2023-12-31 at 17 52 48" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/454630dd-4a61-49a1-8089-aa539d305dbf">
+<img width="1680" alt="Screenshot 2023-12-31 at 17 52 55" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/bd3969ae-0b2c-4371-ae2d-7a3f237258a3">
+<img width="1679" alt="Screenshot 2023-12-31 at 17 53 02" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/f0b3c7c9-86d7-413f-83fb-ae3e587ca12e">
+<img width="1680" alt="Screenshot 2023-12-31 at 17 53 08" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/7025efa6-f811-44fe-a9b8-40765d2772f8">
+
