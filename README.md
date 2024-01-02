@@ -32,6 +32,10 @@ www.kulabuz.com.tr
 
 ## Uygulamaya Ait Ekran Görüntüleri
 
+### Kulabuz Pre Home Page
+<img width="1680" alt="Screenshot 2024-01-02 at 17 02 08" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/85864b44-c63f-4784-b218-88201270dee3">
+<img width="1680" alt="Screenshot 2024-01-02 at 17 02 01" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/265141ec-9001-45fd-b3ed-aab4979c4719">
+
 ### Ana Sayfa
 <img width="1680" alt="Screenshot 2023-12-19 at 20 28 25" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/92074746-8e38-4c99-85a0-6b5044b0b5ef">
 <img width="1680" alt="Screenshot 2023-12-19 at 20 28 32" src="https://github.com/halilsenaydin/kulabuz/assets/70847361/29d5b407-0916-4b80-984a-4a63bf5743e9">
